@@ -1,0 +1,1 @@
+need to make sure the user installs usbutils prior to passing through USB to LXC container. Basically install all dependencies prior to start of configuring LXC.
