@@ -123,7 +123,9 @@ sudo apt install -y /tmp/iloader-linux-amd64.deb
 - You will need to replace the 'Unknown Action' with 'Refresh All Apps' from SideStore.
 - Next, go to the Automation tab in Shortcuts and add a new automation.
 - Select Time of Day and set it to a time you will not be using your phone.
-- Select the 'SideStore Refresher' shortcut and now it will refresh your apps every day at the time you set.
+- Select the 'SideStore Refresher' shortcut.
+- Make sure to set the Automation to 'Run Immediately'
+- Now it will refresh your apps every day at the time you set.
 
 ## Troubleshooting
 
